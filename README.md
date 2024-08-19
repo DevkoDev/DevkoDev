@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-  <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/devko_dev">
+  <a href="https://x.com/devko_dev"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/devko_dev"></a>
 
 </div>
 <br>
