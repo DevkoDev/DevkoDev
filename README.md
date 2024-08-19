@@ -20,45 +20,25 @@
 <code><img height="20" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></code>
-
-
  
 </div>
 
+### 🖼️ Top NFT Projects 
 
-## Top Projects 
-
-- [8SIAN](https://opensea.io/collection/8sian-main-collection)
-- [Claylings](https://opensea.io/collection/theclaylings)
-- [Early Birds](https://opensea.io/collection/earlybirdsgenesis)
-- [Bullies Genesis](https://opensea.io/collection/bulliesofficial)
-- [AIC](https://opensea.io/collection/aicgenesis)
-- [Cool Ape Club](https://opensea.io/collection/coolapeclubofficial)
-- [MetaBeasts](https://opensea.io/collection/metabeasts-season-1)
-
-
-
-###
-
-
-
-
-### 📄 Smart Contracts
-
-| Name      | Address                                                                                 | Type   | Chain  | Volume |
-| --------- | --------------------------------------------------------------------------------------- | ------ | ------ | ------ |
-| _8SIAN_ | [`0x198478f870d97d62d640368d111b979d7ca3c38f`](https://etherscan.io/address/0x198478f870d97d62d640368d111b979d7ca3c38f) | ERC721 | ethereum | 4,855 ETH |
-| Claylings | [`0x8630cdeaa26d042f0f9242ca30229b425e7f243f`](https://etherscan.io/address/0x8630cdeaa26d042f0f9242ca30229b425e7f243f) | ERC721 | ethereum | 3,553 ETH |
-| Cool_Ape_Club | [`0x01a6fa5769b13302e82f1385e18baef7e913d0a7`](https://etherscan.io/address/0x01a6fa5769b13302e82f1385e18baef7e913d0a7) | ERC721 | ethereum | 1,354 ETH |
-| AIC | [`0xb78f1a96f6359ef871f594acb26900e02bfc8d00`](https://etherscan.io/address/0xb78f1a96f6359ef871f594acb26900e02bfc8d00) | ERC721 | ethereum | 968 ETH |
-| EarlyBirds | [`0x01a8f00c64bbcbfe80087a14e9cc48001e8cb810`](https://etherscan.io/address/0x01a8f00c64bbcbfe80087a14e9cc48001e8cb810) | ERC721 | ethereum | 736 ETH |
-| BulliesGenesis | [`0x19369905226f2d37562370a05a711c1de4c9593c`](https://etherscan.io/address/0x19369905226f2d37562370a05a711c1de4c9593c) | ERC721 | ethereum | 178 ETH |
-| MetaBeasts | [`0x62cf887b0084ea2adbce95f15dd6e8547ab53f50`](https://etherscan.io/address/0x62cf887b0084ea2adbce95f15dd6e8547ab53f50) | ERC1155 | ethereum | 126 ETH |
+| Name      | Address                                                                                 | Type   | Chain  | Volume | OpenSea |
+| --------- | --------------------------------------------------------------------------------------- | ------ | ------ | ------ | ------- |
+| 8SIAN | [`0x198478f870d97d62d640368d111b979d7ca3c38f`](https://etherscan.io/address/0x198478f870d97d62d640368d111b979d7ca3c38f) | ERC721 | ethereum | 4,855 ETH | [Check](https://opensea.io/collection/8sian-main-collection) |
+| Claylings | [`0x8630cdeaa26d042f0f9242ca30229b425e7f243f`](https://etherscan.io/address/0x8630cdeaa26d042f0f9242ca30229b425e7f243f) | ERC721 | ethereum | 3,553 ETH | [Check](https://opensea.io/collection/theclaylings) |
+| Cool Ape Club | [`0x01a6fa5769b13302e82f1385e18baef7e913d0a7`](https://etherscan.io/address/0x01a6fa5769b13302e82f1385e18baef7e913d0a7) | ERC721 | ethereum | 1,354 ETH | [Check](https://opensea.io/collection/coolapeclubofficial) |
+| AIC | [`0xb78f1a96f6359ef871f594acb26900e02bfc8d00`](https://etherscan.io/address/0xb78f1a96f6359ef871f594acb26900e02bfc8d00) | ERC721 | ethereum | 968 ETH | [Check](https://opensea.io/collection/aicgenesis) |
+| EarlyBirds | [`0x01a8f00c64bbcbfe80087a14e9cc48001e8cb810`](https://etherscan.io/address/0x01a8f00c64bbcbfe80087a14e9cc48001e8cb810) | ERC721 | ethereum | 736 ETH | [Check](https://opensea.io/collection/earlybirdsgenesis) |
+| Bullies Genesis | [`0x19369905226f2d37562370a05a711c1de4c9593c`](https://etherscan.io/address/0x19369905226f2d37562370a05a711c1de4c9593c) | ERC721 | ethereum | 178 ETH | [Check](https://opensea.io/collection/bulliesofficial) |
+| MetaBeasts | [`0x62cf887b0084ea2adbce95f15dd6e8547ab53f50`](https://etherscan.io/address/0x62cf887b0084ea2adbce95f15dd6e8547ab53f50) | ERC1155 | ethereum | 126 ETH | [Check](https://opensea.io/collection/metabeasts-season-1) |
 
 <details>
 <summary>Click here to see the full list</summary>
 
-### -- Smart Contracts (Full List) --
+### Smart Contracts deployed
 
 
 ## Type : ERC721
