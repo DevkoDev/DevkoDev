@@ -142,6 +142,9 @@
  
 - [Artificial Intelligence Club](https://aic-website-rust.vercel.app/)
 - [8SIAN](https://8sian-website.vercel.app/)
+- [Bullies Genesis](https://bullies-website.vercel.app/)
+- [Early Birds](https://early-birds-website.vercel.app/)
+- [Berkim](https://berkim-website.vercel.app/)
 - [Crypto Atomica](https://crypto-atomica-website.vercel.app/)
 - [Claylings](https://claylings-website.vercel.app/)
 - [Moonique](https://moonique-website.vercel.app/)
